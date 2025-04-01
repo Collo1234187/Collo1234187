@@ -5,7 +5,7 @@
 
 💞️ I’m looking to collaborate on web development projects, especially those involving JavaScript, HTML, and CSS. I’m open to working with like-minded developers to build interactive and user-friendly websites.
 
-📫 How to reach me: Feel free to connect with me for collaborations, coding discussions, or project ideas. (You can add your preferred contact details here!)
+📫 How to reach me: Feel free to connect with me for collaborations, coding discussions, or project ideas at eazytech600@gmail.com
 
 😄 Pronouns: He/Him
 
