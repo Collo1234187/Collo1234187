@@ -9,7 +9,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: Music keeps me focused, and I see it as a form of therapy while coding.
+⚡ Fun fact: I have a passion for thinking critically and coming up with creative ideas that challenge the norm and push boundaries.
 
 <!---
 Collo1234187/Collo1234187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
