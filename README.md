@@ -1,5 +1,5 @@
 -👋 Hi, I’m Collinstone
-👀 I’m interested in software development, web development, and coding in Java, HTML, CSS, and JavaScript. I love creating interactive websites and exploring new technologies.
+👀 I’m interested in software development, web development, and coding in Java,python,c++, HTML, CSS, and JavaScript. I love creating interactive websites and exploring new technologies.
 
 🌱 I’m currently learning Computer Science at Cooperative University, sharpening my programming skills and expanding my knowledge in web technologies.
 
