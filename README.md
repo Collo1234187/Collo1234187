@@ -1,5 +1,5 @@
 -👋 Hi, I’m Collinstone
-👀 I’m interested in software development, web development, and coding in Java,python,c++, HTML, CSS,JavaScript,jquery,  React,express,Node.js and MongoDB for database. I love creating interactive websites and exploring new technologies.
+👀 I’m interested in software development, Full-stack development, and coding in Java,python,c++, HTML, CSS,JavaScript,jquery,  React,express,Node.js and MongoDB for database. I love creating interactive websites and exploring new technologies.
 
 🌱 I’m currently learning Computer Science at Cooperative University, sharpening my programming skills and expanding my knowledge in web technologies.
 
